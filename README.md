@@ -4,6 +4,8 @@
 
 🧐 Check out my [resume](https://violetta.dev/VIOLETTA_KULAKOVA_CV.pdf) !
 
+📚 CS [books](https://violetta.dev/contact/) which I reccomend !
+
 📫 Find me [elsewhere](https://violetta.dev/contact/) !
 <!--
 **SheepIsland/Sheepisland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
