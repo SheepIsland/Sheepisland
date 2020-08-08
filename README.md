@@ -2,9 +2,9 @@
 
 🌱 I am Violetta. I am a software developer working on Java 🕹 & MIPT M.S. 🎓 in Applied Mathematics and Computer Science ! 
 
-🧐 Check out my [resume](https://violetta.dev/VIOLETTA_KULAKOVA_CV.pdf)!
+🧐 Check out my [resume](https://violetta.dev/VIOLETTA_KULAKOVA_CV.pdf) !
 
-📫 Find me [elsewhere](https://violetta.dev/contact/)!
+📫 Find me [elsewhere](https://violetta.dev/contact/) !
 <!--
 **SheepIsland/Sheepisland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
