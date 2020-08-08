@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I am Violetta. I am a software developer working on Java 🕹 & MIPT M.S. 🎓 in Applied Mathematics and Computer Science ! 
+🌱 I am Violetta. 🦋 I am a software developer working on Java 🕹 & MIPT M.S. 🎓 in Applied Mathematics and Computer Science ! 
 
 🧐 Check out my [resume](https://violetta.dev/VIOLETTA_KULAKOVA_CV.pdf) !
 
