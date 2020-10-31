@@ -2,8 +2,6 @@
 
 🌱 I am Violetta. 🦋 I am a software developer 🕹 & MIPT M.S. 🎓 in Applied Mathematics and Computer Science ! 
 
-🧐 Check out my [resume](https://violetta.dev/VIOLETTA_KULAKOVA_CV.pdf) !
-
 📚 CS [books](https://violetta.dev/books/) which I reccomend !
 
 📫 Find me [elsewhere](https://violetta.dev/contact/) !
