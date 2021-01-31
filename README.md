@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🌱 I am Violetta. 🦋 Currently Software Engineer at Yandex 🕹 & MIPT M.S. 🎓 in Applied Mathematics and Computer Science ! 
+🌱 I am Violetta. 
+
+🦋 Currently Software Engineer at Yandex & MIPT M.S. 🎓 in Applied Mathematics and Computer Science ! 
 
 📚 CS [books](https://violetta.dev/books/) which I reccomend !
 
